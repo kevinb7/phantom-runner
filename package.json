@@ -1,0 +1,22 @@
+{
+  "name": "phantom-runner",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinb7/phantom-runner.git"
+  },
+  "author": "Kevin Barabash <kevinb7@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinb7/phantom-runner/issues"
+  },
+  "homepage": "https://github.com/kevinb7/phantom-runner",
+  "dependencies": {
+    "phantomjs": "git://github.com/Medium/phantomjs.git#version-2.0"
+  }
+}
